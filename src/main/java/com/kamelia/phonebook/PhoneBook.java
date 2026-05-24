@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class PhoneBook {
 	
-	public static final String PHONE_BOOK_FILE_PATH = "C:\\Users\\HP\\Documents\\phonebook.txt";
+	public static final String PHONE_BOOK_FILE_PATH = "phonebook.txt";
 	public static Scanner sc = null;
 
 	public static void main(String[] args) {
